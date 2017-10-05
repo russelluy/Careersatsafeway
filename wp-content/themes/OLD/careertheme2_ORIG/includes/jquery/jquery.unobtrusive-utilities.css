@@ -1,0 +1,44 @@
+/* CSS Document */
+html, body{height:100%; width:100%;}
+#lightbox_darkLayer{
+	display: none;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	_position:absolute;
+	_top: expression(((ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop)) + 'px'); 
+	_left: expression(((ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft)) + 'px');
+	width: 100%;
+	height: 100%;
+	background:url(semi-dark.png);
+	z-index:4000;
+	_filter: alpha(opacity=70);
+}
+.lightbox_mainContent {
+	display: none;
+	position: fixed;
+	top: 15px;
+	left: 50%;
+	margin-left:-310px;
+	width:620px;
+	border:#e0e0e0 8px solid;
+	background-color: white;
+	-moz-border-radius:4px;
+	z-index:5002;
+}
+.lightbox_mainContent div.lbhelper{ margin:7px; max-height:420px; width:600px; overflow:auto; margin-top:20px; text-align:center;}
+
+/*____________Tooltip____________*/
+.tooltipdisplay{
+	border:#D5CFBD 6px solid; 
+	background-color:#E4E4FE; 
+	width:300px; 
+	position:absolute; 
+	display:none; 
+	opacity:0.91; 
+	filter:alpha(opacity=91); 
+	-moz-border-radius:8px; 
+	z-index:9999;
+}
+.tooltipdisplay .helper{margin:7px;}
+

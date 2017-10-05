@@ -1,0 +1,51 @@
+.headleft {width:570px; height:365px;background-image:url(../res/bg_img.jpg);float:left;position:relative;z-index:-1;}
+.header_box {height:367px;margin:0 auto;position:relative;width:960px;}
+.headright {float:left;}
+.headright_nav {float:right;margin-left:-200px;height:-71px;width:570px;position:relative;}
+.headright_nav2 {float:right;margin-left:-202px;height:-71px;width:570px;position:relative;}
+.holder_icon5b {float:left;height:61px;margin:7px 0 0 20px;width:60px;}
+.search {margin:4px 0 10px;}
+
+.headright_search {float:left;height:23px;width:200px;margin:25px 0 10px 5px;font-family:verdana;}
+.mid_box_lft {float:left;margin:15px 0 20px 0;width:440px;}
+.midbox_lft_larree_lft {float:left;width:300px;}
+.midbox_lft_larree_rt {float:left;margin:0 -8px 0 0;width:153px; height:157px;background-image:url(../res/l_pic.jpg);}
+
+.midbox_lft_bottom {float:left;margin:18px 0 0;width:100%;}
+.midbox_lft_top {float:left;margin:0 20px 0 0;width:459px;}
+.mid_box_rt {float:left;margin:0 -17px 0 0;width:465px;}
+.mid_box {width: 960px;margin: 0px auto 0 auto;}
+.midbox_rt_top_txt {float:left;margin:7px 0 0 65px;width:95px;}
+.midbox_rt_bottom_rt {float:right;width:200px;}
+.midbox_rt_bottom_lft {float:left;width:255px;}
+.unquote {background-image:url(../res/l_unquote.jpg);float:left;height:31px;margin:-19px 0px 0 143px;width:28px;}
+.more_button {float:left;height:17px;margin:0 0px 0 110px;width:61px;}
+.larree {float:left;margin:18px 0 0 15px;width:160px;}
+.headright_top {float:right;height:100px;width:352px;background-image:url(../res/top_msg.jpg);margin:12px 6px 0;}
+.headright_mid {float:left;width:345px;margin:6px 0 10px 5px;font-family:verdana;font-size:12px;}
+.headright_search2 {float:left;height:23px;margin:25px 0 10px 14px;font-family:verdana;}
+
+#midbox_lower {margin-left:5px;}
+
+.icon1 a:hover {margin:0 auto; width:35px;height:35px;background-image:url(../res/icon1_over.jpg);display:block;}
+.icon2 a:hover {margin:0 auto; width:35px;height:35px;background-image:url(../res/icon2_over.jpg);display:block;}
+.icon3 a:hover {margin:0 auto; width:35px;height:35px;background-image:url(../res/icon3_over.jpg);display:block;}
+.icon4 a:hover {margin:0 auto; width:35px;height:35px;background-image:url(../res/icon4_over.jpg);display:block;}
+.icon5 a:hover {margin:0 auto; width:35px;height:35px;background-image:url(../res/icon5_over.jpg);display:block;}
+.icon6 a:hover {margin:0 auto; width:35px;height:35px;background-image:url(../res/icon6_over.jpg);display:block;}
+
+.mid_box_rt2 {float:left;width:205px;margin:0 2px 0 0;/*width:370px;*/}
+.midbox_rt_top2{float:left;margin:0;width:200px;}
+.headright2 {height:222px;left:420px;width:350px;float:left;}
+body.page-template-indexblank-php .headleft_p, body.page-template-indexwhy-php .headleft_p {width:570px; height:223px;background-image:url(../res/bg_img_p0.jpg);background-repeat:no-repeat;float:left;}
+body.page-template-indexretail-php .headleft_p {width:570px; height:223px;background-image:url(../res/bg_img_p1.jpg);background-repeat:no-repeat;float:left;}
+body.page-template-indexpharmacy-php .headleft_p {width:570px; height:223px;background-image:url(../res/bg_img_p2.jpg);background-repeat:no-repeat;float:left;}
+body.page-template-indexDistManufacturing-php .headleft_p {width:570px; height:223px;background-image:url(../res/bg_img_p3.jpg);background-repeat:no-repeat;float:left;}
+body.page-template-indexcorporate-php .headleft_p {width:570px; height:223px;background-image:url(../res/bg_img_p4.jpg);background-repeat:no-repeat;float:left;}
+body.page-template-indexcollege-php .headleft_p {width:570px; height:223px;background-image:url(../res/bg_img_p5.jpg);background-repeat:no-repeat;float:left;}
+body.page-template-indexmilitary-php .headleft_p {width:570px; height:223px;background-image:url(../res/bg_img_p6.jpg);background-repeat:no-repeat;float:left;}
+.header_box2 {height:224px;margin:0 auto;position:relative;width:959px;}
+.entry ul {font-size:1.2em;}
+a#milbutton {position:absolute;left:491px;top:578px;}
+
+body.page-id-22 ol li{margin-top:10px;}
